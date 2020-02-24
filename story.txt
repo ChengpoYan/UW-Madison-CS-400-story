@@ -1,0 +1,3 @@
+String is an implementation of interface CharSequence, and there are many useful fields and methods defined in the
+interface waiting for the implementation. String is immuntable, once it is created, it cannot be changed. The creation
+of new String does not modify on the origional String, but creating a brand-new String.
