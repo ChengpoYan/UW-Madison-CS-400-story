@@ -1,1 +1,2 @@
 Someone was trying to implement the RBT, but he found the rebalancing function is too complicated.
+Instead, he decided to take a nap and work on it later. 
